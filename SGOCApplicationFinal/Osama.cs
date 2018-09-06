@@ -8,5 +8,7 @@ namespace SGOCApplicationFinal
 {
     class Osama
     {
+        string a = "working";
+
     }
 }
